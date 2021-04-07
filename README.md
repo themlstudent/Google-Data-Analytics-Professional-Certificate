@@ -24,3 +24,5 @@ The six steps of the data analysis process that you have been learning in this p
 An organization was experiencing a high turnover rate among new hires. Many employees left the company before the end of their first year on the job. The analysts used the data analysis process to answer the following question: how can the organization improve the retention rate for new employees? 
 
 Let’s break down what this team did, step-by-step:
+
+![](images/ask.png)
