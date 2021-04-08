@@ -21,7 +21,7 @@ An organization was experiencing a high turnover rate among new hires. Many empl
 
 Let’s break down what this team did, step-by-step:
 
-![](images/ask.png)
+![](images/Foundations Data, Data, Everywhere/Week1/ask.png)
 
 First up, the analysts in our example needed to define what the project would look like and what would qualify as a successful result. So, to determine these things, they asked effective questions and collaborated with leaders and managers who were interested in the outcome of their people analysis.  
 
