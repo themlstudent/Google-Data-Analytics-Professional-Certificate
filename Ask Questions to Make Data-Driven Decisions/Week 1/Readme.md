@@ -13,3 +13,5 @@ Spreadsheets are an important data analytics tool. In this part of the course, y
 
 ### 4. Always remembering the stakeholder: 
 Successful data analysts learn to balance needs and expectations. In this part of the course, you’ll learn strategies for managing the expectations of stakeholders while establishing clear communication with your team to achieve your objectives.  
+### 5. Completing the Course Challenge: 
+At the end of this course, you will be able to put everything you have learned into practice with the Course Challenge. The Course Challenge will ask you questions about key principles you have been learning about and then give you an opportunity to apply those principles in three scenarios. 
