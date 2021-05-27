@@ -1,3 +1,9 @@
 # Ask Questions to Make Data-Driven Decisions 
 
+Course content
 
+### 1. Asking effective questions: 
+To do the job of a data analyst, you need to ask questions and problem-solve. In this part of the course, you’ll check out some common analysis problems and how analysts solve them. You’ll also learn about effective questioning techniques that can help guide your analysis.
+
+### 2. Making data-driven decisions:
+ In analytics, data drives decision making. In this part of the course, you’ll explore data of all kinds and its impact on decision making. You’ll also learn how to share your data through reports and dashboards.
