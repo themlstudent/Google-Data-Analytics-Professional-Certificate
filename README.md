@@ -1,5 +1,6 @@
 # Google Data Analytics Professional Certificate
 
-()[images/we.pmg]
+![](/images/we.png)
+
 
 ## Foundations: Data, Data, Everywhere
