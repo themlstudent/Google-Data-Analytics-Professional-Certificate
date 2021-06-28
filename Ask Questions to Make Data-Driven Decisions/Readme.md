@@ -26,3 +26,5 @@ At the end of this course, you will be able to put everything you have learned i
  <li> Data inspired decision Making.
   
 Explores different data sources to find out what they have in common.
+  
+### Two types of Data 
