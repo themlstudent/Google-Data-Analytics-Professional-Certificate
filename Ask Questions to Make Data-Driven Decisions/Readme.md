@@ -20,3 +20,6 @@ At the end of this course, you will be able to put everything you have learned i
 
 ## WEEK 2:
 
+ <li> Data  driven decision Making
+ <li>Data inspired  decision Making 
+
