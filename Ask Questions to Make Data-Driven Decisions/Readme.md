@@ -28,6 +28,9 @@ At the end of this course, you will be able to put everything you have learned i
 Explores different data sources to find out what they have in common.
   
 ### Two types of Data 
+  <li>  Qualitative Data
+  <li> Quantitative Data
+  
   
   ![](week2.png)
 
