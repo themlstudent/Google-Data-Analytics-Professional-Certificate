@@ -29,5 +29,5 @@ Explores different data sources to find out what they have in common.
   
 ### Two types of Data 
   
-  ![](/Week 2/week2.png)
+  ![](/week2.png)
 
