@@ -28,3 +28,6 @@ At the end of this course, you will be able to put everything you have learned i
 Explores different data sources to find out what they have in common.
   
 ### Two types of Data 
+  
+![week2](https://user-images.githubusercontent.com/65248775/123655782-f1c0f180-d84c-11eb-9395-30fccafd3ac4.png)
+
