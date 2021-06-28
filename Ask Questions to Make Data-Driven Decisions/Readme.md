@@ -29,5 +29,5 @@ Explores different data sources to find out what they have in common.
   
 ### Two types of Data 
   
-  ![](/images/Ask Questions to Make Data-Driven Decisions/week2.png)
+  ![](/Ask Questions to Make Data-Driven Decisions/Week 2/week2.png)
 
