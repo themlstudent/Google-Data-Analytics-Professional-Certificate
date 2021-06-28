@@ -18,3 +18,5 @@ At the end of this course, you will be able to put everything you have learned i
 
 ## WEEK 1:
 
+## WEEK 2:
+
