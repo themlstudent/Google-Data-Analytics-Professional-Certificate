@@ -22,15 +22,13 @@ And you will learn how to identify different types of data that can be used to u
 
 ## Week 1:
 
-#### Data Collection
-
 ##### How Data is Collected:
 
-Interviews
--Observations
--Forms
--Questionnaires
--Surveys
--Cookies
+- Interviews
+- Observations
+- Forms
+- Questionnaires
+- Surveys
+- Cookies
 
   
