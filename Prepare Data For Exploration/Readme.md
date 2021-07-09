@@ -19,4 +19,8 @@ And you will learn how to identify different types of data that can be used to u
 3. **Databases: Where data lives:** When you are analyzing data, you will access much of the data from a database. It’s where data lives. In this part of the course, you will learn all about databases, including how to access them and extract, filter, and sort the data they contain. You will also check out metadata to discover the different types and how analysts use them.
 
 4. **Organizing and protecting your data:** Good organization skills are a big part of most types of work, and data analytics is no different. In this part of the course, you will learn the best practices for organizing data and keeping it secure. You will also learn how analysts use file naming conventions to help them keep their work organized.
-5. 
+
+## Week 1:
+
+-> Data Collection
+
