@@ -52,4 +52,4 @@ If you are collecting your own data, make reasonable decisions about sample size
 Time frame
 If you are collecting your own data, decide how long you will need to collect it, especially if you are tracking trends over a long period of time. If you need an immediate answer, you might not have time to collect new data. In this case, you would need to use historical data that already exists. 
  
-![](Week 1/co.png) 
+![](/Week 1/co.png) 
