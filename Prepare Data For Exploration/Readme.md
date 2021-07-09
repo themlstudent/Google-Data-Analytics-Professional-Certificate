@@ -24,3 +24,11 @@ And you will learn how to identify different types of data that can be used to u
 
 - Data Collection
 
+    - How Data is Collected:
+       -Interviews
+       -Observations
+       -Forms
+       -Questionnaires
+       -Surveys
+
+  
