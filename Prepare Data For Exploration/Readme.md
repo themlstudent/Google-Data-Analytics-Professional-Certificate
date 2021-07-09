@@ -12,4 +12,4 @@ And you will learn how to identify different types of data that can be used to u
 
 ## Course Content:
 
-1. 'Understanding data types and structures:' We all generate lots of data in our daily lives. In this part of the course, you will check out how we generate data and how analysts decide which data to collect for analysis. You’ll also learn about structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
+1. ** Understanding data types and structures: ** We all generate lots of data in our daily lives. In this part of the course, you will check out how we generate data and how analysts decide which data to collect for analysis. You’ll also learn about structured and unstructured data, data types, and data formats as you start thinking about how to prepare your data for exploration.
