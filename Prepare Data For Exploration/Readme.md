@@ -63,7 +63,7 @@ When we think about the word "format," a lot of things might come to mind. Think
 
 #### Data Formats Example:
 
-![](images/co1.png)
+![](images/co2.png)
 
 Data Format Classification  |  Definition  | Examples 
 --------------------------  |  ------------| ---------
