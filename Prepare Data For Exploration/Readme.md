@@ -70,5 +70,4 @@ Data Format Classification  |                     Definition  | Examples
 
 1. Primary Data             |  Collected by a researcher from first hand resources | - Data from an interview you conducted
                                                                                      - Data from a survey returned from 20 participants
-                                                                                     - Data from questionnaires you got back from a group of workers
- -------------------------- | ----------------------- | -----------------------                                                                                                                                                     
+                                                                                     - Data from questionnaires you got back from a group of workers.                                                                                                                                                    
