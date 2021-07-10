@@ -65,7 +65,7 @@ When we think about the word "format," a lot of things might come to mind. Think
 
 ![](images/co2.png)
 
-Data Format Classification  |                                          Definition  | Examples 
---------------------------  | ---------------------------------------------------- | --------------------------------------
-1. Primary Data             |  Collected by a researcher from first hand resources | - Data from an interview you conducted
+| Data Format Classification  |                                          Definition  | Examples 
+| --------------------------  | ---------------------------------------------------- | --------------------------------------
+| 1. Primary Data             |  Collected by a researcher from first hand resources | Data from an interview you conducted
                                                                                                                                                                                                                                          
