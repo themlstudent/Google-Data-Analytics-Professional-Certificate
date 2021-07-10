@@ -65,6 +65,6 @@ When we think about the word "format," a lot of things might come to mind. Think
 
 ![](images/co2.png)
 
-Data Format Classification  |  Definition  | Examples 
---------------------------  |  ------------| ---------
+Data Format Classification  |                     Definition  | Examples 
+--------------------------  |                     ------------| ---------
 
