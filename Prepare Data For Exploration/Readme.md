@@ -60,3 +60,11 @@ If you are collecting your own data, decide how long you will need to collect it
 When we think about the word "format," a lot of things might come to mind. Think of an advertisement for your favorite store. You might find it in the form of a print ad, a billboard, or even a commercial. The information is presented in the format that works best for you to take it in. The format of a dataset is a lot like that, and choosing the right format will help you manage and use your data in the best way possible.
 
 ![](images/co1.png)
+
+#### Data Formats Example:
+
+![](images/co1.png)
+
+Data Format Classification  |  Definition  | Examples 
+--------------------------  |  ------------| ---------
+
