@@ -71,3 +71,4 @@ When we think about the word "format," a lot of things might come to mind. Think
 | Secondary data             	| Gathered by other people or from other research   	| -  Data you bought from a local data analytics firm’s customer profiles <br>-  Demographic data collected by a university  <br>-  Census data gathered by the federal government 	|
 
                                                                                                                                                                                                                                          
+![](images/co3.png)
