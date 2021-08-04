@@ -101,3 +101,9 @@ When we think about the word "format," a lot of things might come to mind. Think
 | Ordinal                    	|  A type of qualitative data with a set order or scale              	| - Movie ratings (number of stars: 1 star, 2 stars, 3 stars)<br> - Ranked-choice voting selections (1st, 2nd, 3rd)<br> - Income level (low income, middle income, high income)     	|
 
 ![](images/co7.png)
+
+| Data Format Classification 	| Definition                                                  	| Examples                                                  	|
+|----------------------------	|-------------------------------------------------------------	|-----------------------------------------------------------	|
+| Structured data            	| Data organized in a certain format, like rows and columns   	| - Expense reports<br> - Tax returns<br> - Store inventory 	|
+| Unstructured data          	| Data that isn’t organized in any easily identifiable manner 	| - Social media posts<br> - Emails<br> - Videos            	|
+
