@@ -61,7 +61,7 @@ When we think about the word "format," a lot of things might come to mind. Think
 
 ![](images/co1.png)
 
-#### Data Formats Example:
+## Data Formats Example:
 
 ![](images/co2.png)
 
