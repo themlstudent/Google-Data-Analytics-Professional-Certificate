@@ -67,6 +67,6 @@ When we think about the word "format," a lot of things might come to mind. Think
 
 | Data Format Classification  |                                          Definition  | Examples 
 | --------------------------  | ---------------------------------------------------- | --------------------------------------
-| 1. Primary Data             |  Collected by a researcher from first hand resources | - Data from an interview you conducted
-| 2. Secondary Data           |  Gathered by other people or from other research                                            | efedfgedg
+| 1. Primary Data             |  Collected by a researcher from first hand resources | * Data from an interview you conducted
+| 2. Secondary Data           |  Gathered by other people or from other research     | * Data you bought from a local data analytics firm’s customer profiles
                                                                                                                                                                                                                                          
