@@ -72,3 +72,8 @@ When we think about the word "format," a lot of things might come to mind. Think
 
                                                                                                                                                                                                                                          
 ![](images/co3.png)
+
+| Data Format Classification 	| Definition                                           	| Examples                                                                                                                                                       	|
+|----------------------------	|------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Internal data              	| Data that lives inside a company’s own systems       	| - Wages of employees across different business units tracked by HR<br>- Sales data by store location<br>- Product inventory levels across distribution centers 	|
+| External data              	| Data that lives outside of a company or organization 	| - National average wages for the various positions throughout your organization<br> - Credit reports for customers of an auto dealership                       	|
