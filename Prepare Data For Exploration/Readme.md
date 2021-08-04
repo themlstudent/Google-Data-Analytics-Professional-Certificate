@@ -77,3 +77,13 @@ When we think about the word "format," a lot of things might come to mind. Think
 |----------------------------	|------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Internal data              	| Data that lives inside a company’s own systems       	| - Wages of employees across different business units tracked by HR<br>- Sales data by store location<br>- Product inventory levels across distribution centers 	|
 | External data              	| Data that lives outside of a company or organization 	| - National average wages for the various positions throughout your organization<br> - Credit reports for customers of an auto dealership                       	|
+
+![](images/co4.png)
+
+| Data Format Classification 	| Definition                                                  	| Examples                                                                                                                                             	|
+|----------------------------	|-------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Continuous data            	| Data that is measured and can have almost any numeric value 	| - Height of kids in third grade classes (52.5 inches, 65.7 inches)<br> - Runtime markers in a video<br> - Temperature                                	|
+| Discrete data              	| Data that is counted and has a limited number of values     	| - Number of people who visit a hospital on a daily basis (10, 20, 200)<br> - Room’s maximum capacity allowed<br> - Tickets sold in the current month 	|
+
+
+![](images/co5.png)
