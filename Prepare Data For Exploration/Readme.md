@@ -92,3 +92,12 @@ When we think about the word "format," a lot of things might come to mind. Think
 |----------------------------	|----------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------	|
 | Qualitative                	| Subjective and explanatory measures of qualities and characteristics 	| - Exercise activity most enjoyed<br> - Favorite brands of most loyal customers<br> - Fashion preferences of young adults        	|
 | Quantitative               	| Specific and objective measures of numerical facts                   	| - Percentage of board certified doctors who are women<br> - Population of elephants in Africa<br> - Distance from Earth to Mars 	|
+
+![](images/co6.png)
+
+| Data Format Classification 	| Definition                                                         	| Examples                                                                                                                                                                          	|
+|----------------------------	|--------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Nominal                    	| A type of qualitative data that isn’t categorized with a set order 	| - First time customer, returning customer, regular customer<br> - New job applicant, existing applicant, internal applicant<br> - New listing, reduced price listing, foreclosure 	|
+| Ordinal                    	|  A type of qualitative data with a set order or scale              	| - Movie ratings (number of stars: 1 star, 2 stars, 3 stars)<br> - Ranked-choice voting selections (1st, 2nd, 3rd)<br> - Income level (low income, middle income, high income)     	|
+
+![](images/co7.png)
