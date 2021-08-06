@@ -1,6 +1,6 @@
 ![](prepare.png)
 
-# Prepare Data For Exploration:::::
+# Prepare Data For Exploration::::
 
 Welcome to the third course in the Google Data Analytics Certificate! So far, you have been introduced to the field of data analytics and discovered how data analysts can use their skills to answer business questions. 
 
