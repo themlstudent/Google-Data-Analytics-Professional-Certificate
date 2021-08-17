@@ -33,6 +33,10 @@ It’s impossible to solve a problem if you don’t know what it is. These are s
 - Collaborate with stakeholders and keep an open line of communication
 - Take a step back and see the whole situation in context
 
+Questions to ask yourself in this step:
+
+- What are my stakeholders saying their problems are?
+- Now that I’ve identified the issues, how can I help the stakeholders resolve their questions?
 
 ## WEEK 2:
 
