@@ -25,6 +25,8 @@ There are six data analysis phases that will help you make seamless decisions: a
 
 It’s impossible to solve a problem if you don’t know what it is. These are some things to consider:
 
+![](image/1.png)
+
 ## WEEK 2:
 
 ### About:
