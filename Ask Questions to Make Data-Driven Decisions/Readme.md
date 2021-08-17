@@ -20,6 +20,11 @@ At the end of this course, you will be able to put everything you have learned i
 
 ### From issue to action: The six data analysis phases :
 There are six data analysis phases that will help you make seamless decisions: ask, prepare, process, analyze, share, and act. Keep in mind, these are different from the data life cycle, which describes the changes data goes through over its lifetime. Let’s walk through the steps to see how they can help you solve problems you might face on the job.
+
+#### Step 1: Ask
+
+It’s impossible to solve a problem if you don’t know what it is. These are some things to consider:
+
 ## WEEK 2:
 
 ### About:
