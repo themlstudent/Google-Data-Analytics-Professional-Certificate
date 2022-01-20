@@ -51,3 +51,6 @@ Just as they made sure the data was carefully protected, the analysts were also 
 ![](images/act.png)
 
 The last stage of the process for the team of analysts was to work with leaders within their company and decide how best to implement changes and take actions based on the findings. The analysts recommended standardizing the hiring process for all new hires based on the most efficient and transparent hiring practices. A year later, the same survey was distributed to employees. Analysts anticipated that a comparison between the two sets of results would indicate that the action plan worked. Turns out, the changes improved the retention rate for new employees and the actions taken by leaders were successful! 
+
+  
+  ## Understanding The Data Ecosystem :
