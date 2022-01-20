@@ -1,5 +1,7 @@
 # Week 1
 
+## Get Started:
+
 <li>Define key concepts involved in data analytics including data, data analysis, and data ecosystem.
 <li>Discuss the use of data in everyday life decisions.
 <li>Identify the key features of the learning environment and their uses.
@@ -7,7 +9,9 @@
 <li>Explain the use of data in organizational decision-making.
 <li>Describe the key concepts to be discussed in the program, including learning outcomes.
 
-## Case Study: New data perspectives
+## Transforming Data Into Insights
+  
+### Case Study: New data perspectives
 
 As you’ve been learning, you can find data pretty much everywhere. Any time you observe and evaluate something in the world, you’re collecting and analyzing data. Your analysis helps you find easier ways of doing things, identify patterns to save you time, and discover surprising new perspectives that can completely change the way you experience things.
 
